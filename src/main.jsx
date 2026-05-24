@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { MapPin, Users, ShieldCheck, MessageCircle, CalendarDays, Compass, Sparkles, Car, Mountain, Coffee, Camera, HeartHandshake, ArrowRight } from 'lucide-react';
 import './style.css';
 
-const DISCORD_INVITE = 'https://discord.gg/OVDE-STAVI-SVOJ-LINK';
+const DISCORD_INVITE = 'https://discord.gg/nV7c9jJdjG';
 
 function App(){
   const cards = [
